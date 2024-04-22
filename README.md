@@ -1,16 +1,28 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EBEB41&height=120&section=header"/>
+# 👋 Olá, me chamo Herick
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EBEB41&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Herick+Moreira;Eu+tenho+29+anos;Sou+estudante+de+Desenvolvimento+Web;Seja+Bem+Vindo!)](https://git.io/typing-svg)
+## 💼 Perfil Profissional
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Herick2D&show_icons=true&count_private=true&hide_border=true&title_color=EBEB41&icon_color=EBEB41&text_color=c9d1d9&bg_color=0d1117" alt="Herick Moreira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herick2D&layout=compact&hide_border=true&title_color=EBEB41&text_color=EBEB41&bg_color=0d1117" />
-</div>
+- 💻 Estudante de Programação
+- 🌱 Apaixonado por Tecnologia
+- 🎓 Cursando [Sistemas da informação  / IBMR]
 
-<div align="center"> 
-<a href = "mailto:Contato.Herickmoreira@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/herick-moreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href="https://instagram.com/Herick.Jpeg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
- </div>
- 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EBEB41&height=120&section=footer"/>
+## 🚀 Habilidades
+
+Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,nodejs)](https://skillicons.dev)
+
+## 🧰 Frameworks: 
+[![My Skills](https://skillicons.dev/icons?i=react,spring,hibernate,sequelize)](https://skillicons.dev)
+
+## 🗄️ Banco de dados: 
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=linux,maven,npm,git,github,vscode,eclipse,idea,webstorm,postman)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+[![Linkedin: Herick](https://img.shields.io/badge/-Herick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/herick-moreira/)](https://www.linkedin.com/in/Herick-moreira/) <br><br>
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 💻😃
