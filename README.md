@@ -25,4 +25,8 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 📫 Contato
 
 [![Linkedin: Herick](https://img.shields.io/badge/-Herick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/herick-moreira/)](https://www.linkedin.com/in/Herick-moreira/) <br><br>
+Ou
+
+📧 Contato.herickmoreira@gmail.com
+
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 💻😃
