@@ -20,7 +20,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=linux,maven,npm,git,github,vscode,visualstudio,eclipse,idea,webstorm,postman,docker,)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=linux,maven,npm,git,github,vscode,visualstudio,eclipse,idea,webstorm,postman,docker,arduino)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
