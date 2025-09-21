@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo Herick
+# 👋🏻 Olá, me chamo Herick
 
 ## 💼 Perfil Profissional
 
